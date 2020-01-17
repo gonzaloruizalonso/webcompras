@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<h1>ALTA CATEGORÍAS - Nombre del alumno</h1>
+<h1>ALTA CATEGORÍAS - Gonzalo Ruiz</h1>
 <?php
 include "conexion.php";
 mysqli_query($conn, "begin;");
